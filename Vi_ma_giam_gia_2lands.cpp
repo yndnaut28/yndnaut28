@@ -28,7 +28,7 @@ int main(){
     while(ok != 0){
     	cout << "Nhap yeu cau cua ban theo menu sau:\n";
     	cout << "0. Dung lai\n";
-	cout << "1. In ra danh sach sinh vien\n";
+		cout << "1. In ra danh sach sinh vien\n";
     	cout << "2. Tinh diem trung binh 3 mon cua cac sinh vien\n";
     	cout << "3. Diem trung binh cua sinh vien theo thu tu tang dan\n";
     	cout << "4. Xep loai sinh vien theo diem trung binh\n";
